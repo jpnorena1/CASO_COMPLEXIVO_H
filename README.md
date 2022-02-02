@@ -8,52 +8,19 @@
 </p>
 
 <p align="center">
-    <h2 align="center"> Aplicacion Web & Version para tables parael manejo de citas de un hospital </h2>    
+    <h2 align="center"> Aplicacion Web & Version para tablets parael manejo de citas de un hospital </h2>    
 </p>
 <br />
 
-<p align="center">
-    <a href="https://img.shields.io/badge/Microverse-blueviolet" alt="Contributors">
-        <img src="https://img.shields.io/badge/Microverse-blueviolet" /></a>
-    <a href="https://www.w3schools.com/js/js_es6.asp" alt="JavaScript">
-        <img src="https://img.shields.io/badge/JavaScript-6.0.0-yellowgreen" /></a>          
-    <a href="https://getbootstrap.com/" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/Bootstrap-4.5.0.-orange" /></a>
-    <a href="https://ruby-doc.org/core-2.7.0/Array.html" alt="Ruby">
-        <img src="https://img.shields.io/badge/Ruby-2.6.5-blue" /></a>
-  
-    <a href="https://www.rubydoc.info/gems/bootstrap-sass/3.3.6" alt="Bootstrap-sass">
-        <img src="https://img.shields.io/badge/Bootstrap--sass-3.4.1-lightgrey" /></a>
-    <a href="https://rspec.info/documentation/" alt="Rspec-rails">
-        <img src="https://img.shields.io/badge/Rspec--rails-4.0.0-orange" /></a>
-    <a href="https://rubygems.org/gems/pg/versions/0.18.4?locale=es" alt="Postgresql">
-        <img src="https://img.shields.io/badge/Postgresql-2.0-yellow" /></a>
-    <a href="https://www.heroku.com/" alt="Heroku">
-        <img src="https://img.shields.io/badge/Heroku-published-lightgrey" /></a>
-    
-</p>
 
-  <p align="center">    
-    <br />
-    <a href="https://github.com/rubenpazch/appointment-view"><strong>Explore this project »</strong></a>
-    <br />
-    <br />&#10023;
-    <a href="https://agile-lowlands-59460.herokuapp.com/Dashboard">View Demo</a>   &#10023;  
-    <a href="https://github.com/rubenpazch/appointment-view/issues">Report Bug</a>    &#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;
-    <a href="#Extra-Feature">Extra Feature</a> &#10023;
-    <a href="#Screenshots-of-the-App">Screenshots of the App</a> &#10023;
-    <a href="#Authors">Author</a> &#10023;
-    
-  </p>
 
+ 
 
 
 <br/>
 
 
-Hospital Appointment System is a web application tablet version, this application was build using ROR and <strong>React & Redux</strong> the latest version, includes the ability to register new users, login into the application creating a token session, when we are logged in the application we can select a service (Surgery, Medicine and others), each of the options show different doctors and their attendance availability, finally we can create an appointment for a specific date and service.
-<br/>
+Hospital Appointment System es una versión para tableta de la aplicación web, esta aplicación fue construida con ROR y <strong>React & Redux</strong> la última versión, incluye la capacidad de registrar nuevos usuarios, iniciar sesión en la aplicación creando una sesión de token, cuando están logueados en la aplicación podemos seleccionar un servicio (Cirugía, Medicina y otros), cada una de las opciones muestra diferentes médicos y su disponibilidad de atención, finalmente podemos crear una cita para una fecha y servicio específico.<br/>
 
 ### Main Features
 
