@@ -22,36 +22,30 @@
 
 Hospital Appointment System es una versión para tableta de la aplicación web, esta aplicación fue construida con ROR y <strong>React & Redux</strong> la última versión, incluye la capacidad de registrar nuevos usuarios, iniciar sesión en la aplicación creando una sesión de token, cuando están logueados en la aplicación podemos seleccionar un servicio (Cirugía, Medicina y otros), cada una de las opciones muestra diferentes médicos y su disponibilidad de atención, finalmente podemos crear una cita para una fecha y servicio específico.<br/>
 
-### Main Features
-
-- Create a new user
-- Login with token generation
-- Show a list of services as a menu
-- Show carousel list of doctor for each service
-- Show availability for each doctor
-- Create new appointment
-- List of appointment by patient
-
+### Principales características
+- Crear un nuevo usuario
+- Iniciar sesión con generación de token
+- Mostrar una lista de servicios como un menú
+- Mostrar lista de carrusel de médicos para cada servicio
+- Mostrar disponibilidad para cada médico
+- Crear nueva cita
+- Lista de cita por paciente
 
 
-<br/>
-
-<img src="./images/animation.gif" width="100%"/>
 
 <br/>
+
+##Empezando
+
+Este proyecto se creó utilizando React y Redux, Nodejs y Express Con lambda functions e integracion a apigateway de amazon web service de arquitectura, es una aplicación web y para ejecutarse en su entorno local debe seguir estas pautas.
+<br/>
+<br/>
+**THIS IS THE FRONTEND OF THE APPLICATION AND THE BACKEND IS LOCATED IN THIS LINK** [(backend)](https://github.com/rubenpazch/entAPI)
 <br/>
 
-## Getting Started
+### Pre-requisitos
 
-This project was built using React and Redux, Ruby and Rails API, it is a web application and for running on your local environment you should follow these guidelines.
-<br/>
-<br/>
-**THIS IS THE FRONTEND OF THE APPLICATION AND THE BACKEND IS LOCATED IN THIS LINK** [(backend)](https://github.com/rubenpazch/appointmentAPI)
-<br/>
-
-### Prerequisites
-
-- Ruby & Rails
+- Nodejs
 - React & Redux
 - Git
 - React Testing Library
@@ -59,6 +53,10 @@ This project was built using React and Redux, Ruby and Rails API, it is a web ap
 - React Hooks
 - Styled components
 - Axios
+-fetch
+-aws Lambda functions
+-api gateway TIPO REST
+
 
 ### Setup
 
