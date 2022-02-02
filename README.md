@@ -84,50 +84,31 @@ cd /home/workspace/appointment-view
 ## Install
 
 
-To get started with the app, clone the repo, and then install the needed packages using yarn or npm:
+
+Para comenzar con la aplicación, clone el repositorio y luego instale los paquetes necesarios usando yarn o npm
+
 
 ```
 # npm install or yarn install
 ```
 
-to start the local application run:
+ICNIAR LA APLICACION:
 
 ```
 # npm start
 ```
 
 
-### Usage
-
-To watch the local version of this project check on your browser for the link 
-
-```
-Listening on tcp://127.0.0.1:3000
-```
-
-### Run tests
-
-Run the test suite to verify that everything is working correctly:
-
-```
-# npm test
-
-```
-
 If the test suite passes, you'll be ready to run the app in a local server:
 
 
 ### Deployment
-
-To deploy to netlify just push your changes and create a new project inside netlify, the link your account with github, remenber that you can use 
-
-<b>npm run build or yarn build</b>
+Para implementar en netlify, simplemente presione sus cambios y cree un nuevo proyecto dentro de netlify, vincule su cuenta con github, recuerde que puede usar
 
 
 
 
-
-## Optional Features
+## Optional 
 
 + For this project it was 
 + stylelint
@@ -137,15 +118,9 @@ To deploy to netlify just push your changes and create a new project inside netl
 
 <br/>
 
-## Watch the Live Version
+
 
 <br/>
-
-click on the link to watch [live version](https://agile-lowlands-59460.herokuapp.com/)
-
-<br/>
-
-click on the link to watch project description [video 1](https://www.notion.so/Final-Capstone-Project-Book-an-Appointment-41ded2ee99ff4fe4becf91acb332ca26)
 
 
 <br/>
