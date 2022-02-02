@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <h2 align="center"> Aplicacion Web & Version para tablets parael manejo de citas de un hospital </h2>    
+    <h2 align="center"> Aplicacion Web & Version para tablets para el manejo de citas de un hospital </h2>    
 </p>
 <br />
 
