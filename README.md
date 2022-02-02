@@ -40,7 +40,7 @@ Hospital Appointment System es una versión para tableta de la aplicación web, 
 Este proyecto se creó utilizando React y Redux, Nodejs y Express Con lambda functions e integracion a apigateway de amazon web service de arquitectura, es una aplicación web y para ejecutarse en su entorno local debe seguir estas pautas.
 <br/>
 <br/>
-**THIS IS THE FRONTEND OF THE APPLICATION AND THE BACKEND IS LOCATED IN THIS LINK** [(backend)](https://github.com/rubenpazch/entAPI)
+**ESTE ES EL FRONTEND DE LA APLICACIÓN Y EL BACKEND SE ENCUENTRA EN ESTE ENLACE** [(backend)](https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git)
 <br/>
 
 ### Pre-requisitos
@@ -60,22 +60,21 @@ Este proyecto se creó utilizando React y Redux, Nodejs y Express Con lambda fun
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/rubenpazch/appointment-view/tree/list) or just clone the project using this command. 
 
 
 
 ```
-Using SSH 
+Usando SSH 
 
-# git clone  git@github.com:rubenpazch/appointment-view.git
+# git clone  https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git
 
-Using HTTPS
+Usando HTTPS
 
-# git clone  https://github.com/rubenpazch/appointment-view.git
+# git clone https://github.com/jpnorena1/CASO_COMPLEXIVO_H.git
 
 ```
 
-+ Open terminal on your workspace with
++ Abrir terminal en el espacio de tu trabajo
 
 ```
 cd /home/workspace/appointment-view
