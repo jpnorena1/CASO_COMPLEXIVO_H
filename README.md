@@ -152,46 +152,7 @@ click on the link to watch project description [video 1](https://www.notion.so/F
 
 
 
-## Screenshots of the App
 
+## AUTOR... 
 
-<img src="./images/ksnip_20210211-213005.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213240.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213256.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213304.png" width="100%"/>
-<br/>
-<img src="./images/ksnip_20210211-213317.png" width="100%"/>
-
-
-## Contributing
-
-This project was created for educational purposes as part of the Microverse web development curriculum; contributing is not accepted.
-
-Feel free to check the [issues page](https://github.com/rubenpazch/catalogue-of-dog-clothes/issues).
-
-
-## Authors
-
-👤 **Ruben Paz Chuspe**
-
-- Github: [@rubenpazch](https://github.com/rubenpazch)
-- Linkedin: [rubenpch](https://www.linkedin.com/in/rubenpch/)
-- Twitter: [@ChuspePaz](https://twitter.com/ChuspePaz)
-
-### Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* [Creative Commons ](https://creativecommons.org/licenses/by-nc/4.0/)
-
-* [behance.net ](https://www.behance.net/gallery/24531031/Pimp-my-DOG-Online-store-E-commerse-project)
+👤 **Edison Fabricio Balcazar **
