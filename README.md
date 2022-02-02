@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-    <h1 align="center"> Hospital Appointment System   </h1>    
+    <h1 align="center"> SISTEMA DE GESTION DE CITAS DE UN HOSPITAL  </h1>    
 </p>
 
 <p align="center">
-    <h2 align="center"> Web application tablet version to manage hospital appointments</h2>    
+    <h2 align="center"> Aplicacion Web & Version para tables parael manejo de citas de un hospital </h2>    
 </p>
 <br />
 
@@ -21,8 +21,7 @@
         <img src="https://img.shields.io/badge/Bootstrap-4.5.0.-orange" /></a>
     <a href="https://ruby-doc.org/core-2.7.0/Array.html" alt="Ruby">
         <img src="https://img.shields.io/badge/Ruby-2.6.5-blue" /></a>
-    <a href="https://rubyonrails.org/" alt="Rails">
-        <img src="https://img.shields.io/badge/Rails-6.0.3-blue" /></a>
+  
     <a href="https://www.rubydoc.info/gems/bootstrap-sass/3.3.6" alt="Bootstrap-sass">
         <img src="https://img.shields.io/badge/Bootstrap--sass-3.4.1-lightgrey" /></a>
     <a href="https://rspec.info/documentation/" alt="Rspec-rails">
